@@ -28,7 +28,7 @@ sudo apt install ./lml_0.1.0-alpha_amd64.deb
 
 Pre-compiled `.exe` binaries are currently omitted. You can inspect or build the installer yourself using the provided Inno Setup script (`setup.iss`) with [Inno Setup 7.1.0](https://github.com/jrsoftware/issrc/releases/download/is-7_1_0/innosetup-7.1.0-x64.exe), or run the source code directly via Python.
 
-# Usage (path ex. C:/users/user/Desktop/example)
+# Usage (ex. C:/users/user/Desktop/example)
 ```bash
 lml --dataset <path> --ftllm <path> --save_dir <path> --logging <path>
 ```
