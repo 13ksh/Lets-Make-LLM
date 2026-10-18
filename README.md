@@ -5,7 +5,7 @@
 **Alpha Stage & Notice**: 
 This project is currently in an early **Alpha phase**. Full autonomous training loops are under active development.
 
-* **Windows Installer Note**: During a rapid OS migration to a Linux/Ubuntu environment and secure cloud backup (Proton Drive) quota management, legacy pre-compiled `.exe` binaries were omitted to prioritize core source code. However, the Inno Setup script (`setup.iss`) is included in the repository if you still wish to inspect or build it for Windows.
+* **Windows Installer Note**: During a rapid OS migration to a Linux/Ubuntu environment and secure cloud backup (Proton Drive) quota management, legacy pre-compiled .exe binaries were omitted to prioritize core source code. However, the Inno Setup script (setup.iss) is included in the repository if you still wish to inspect or build it for Windows.
 
 ### Project Roadmap & Architecture Strategy
 
