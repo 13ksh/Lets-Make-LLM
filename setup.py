@@ -5,8 +5,9 @@
 #   Currently in the initial setup stage. Running editable installation 
 #   (pip install -e .) will result in dependency or runtime errors at this time.
 #
-#   Full pip integration and PyPI package distribution are planned for the
-#   next alpha release (v0.2.0-alpha).
+#   Local editable installation (pip install -e .) is planned for the next 
+#   alpha release (v0.2.0-alpha), while remote PyPI distribution is deferred 
+#   to a much later roadmap.
 #
 #   For now, this repository relies entirely on standalone scripts and native 
 #   installers (Debian .deb / Inno Setup .exe).
