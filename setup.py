@@ -2,13 +2,12 @@
 # Lets-Make-LLM (LML) Setup Script
 #
 # Note:
-#   This setup.py is designed for local editable installation (pip install -e .)
+#   Primarily configured for local editable installation (pip install -e .)
 #   and script-based packaging (Debian .deb / Inno Setup .exe).
-#   PyPI remote publishing is intentionally bypassed.
+#   PyPI remote publishing is under consideration for future releases.
 #
-# Development Usage:
-#   pip install -e .                  # Install in editable mode for active development
-#   lml --version                     # Test CLI router directly
+# Usage:
+#   pip install -e .                  # Install in editable mode for development
 # ==============================================================================
 
 from setuptools import setup
