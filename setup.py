@@ -1,12 +1,15 @@
 # ==============================================================================
-# Lets-Make-LLM (LML) Setup Script
+# Lets-Make-LLM (LML) Setup Script - v0.1.0-alpha
 #
 # Note:
-#   Currently in initial setup stage. Editable installation (pip install -e .)
-#   and PyPI package distribution are planned for upcoming versions (v0.2.0+).
+#   Currently in the initial setup stage. Running editable installation 
+#   (pip install -e .) will result in dependency or runtime errors at this time.
 #
-#   For now, this repository relies on standalone scripts and native installers
-#   (Debian .deb / Inno Setup .exe).
+#   Full pip integration and PyPI package distribution are planned for the
+#   next alpha release (v0.2.0-alpha).
+#
+#   For now, this repository relies entirely on standalone scripts and native 
+#   installers (Debian .deb / Inno Setup .exe).
 # ==============================================================================
 
 from setuptools import setup
