@@ -3,7 +3,7 @@
 > A meta-AI engine where a base model acts as an architect to design and build new model structures.
 
 **Alpha Stage & Notice**: 
-This project is currently in an early **Alpha phase**. Full autonomous training loops are under active development.
+This project is currently in an early **Alpha phase**. Full autonomous training loops are under active development. The project is still under active development, and `pip install -e .` is **not yet supported and may fail** in the current version. Editable-install support is planned for `v0.2.0-alpha`; until then, do not assume that this installation method works.
 
 * **Windows Installer Note**: During a rapid OS migration to a Linux/Ubuntu environment and secure cloud backup (Proton Drive) quota management, legacy pre-compiled `.exe` binaries were omitted to prioritize core source code. However, the Inno Setup script (`setup.iss`) is included in the repository if you still wish to inspect or build it for Windows.
 
