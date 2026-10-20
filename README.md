@@ -17,6 +17,8 @@ This project is currently in an early **Alpha phase**. Full autonomous training 
     *   **Editable Installation**: Support `pip install -e .`.
     *   **Version Command**: Support `lml --version`.
 
+**Note:** The features listed in the `v0.2.0-alpha` roadmap are subject to change. Additional features may be added, planned features may be removed, and existing features may be modified during development.
+
 ---
 
 ## Installation (amd64 Ubuntu/Debian)
